@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Hemant Kumar
 
-<!--
-**hemantkumar71002-del/hemantkumar71002-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics engineer. I build hardware and software that are useful for real people.
 
-Here are some ideas to get you started:
+Portfolio: https://hemantkumar71002-del.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+[Nancy AI](https://github.com/hemantkumar71002-del/Nancy-Ai-assistant-)**: an Android app for blind and low-vision people. It detects objects, recognises faces and works by voice, offline.
+[AI Trainer](https://hemantkumar71002-del.github.io/AI-Trainer/)**: a website where you add your own images and train an AI model to recognise them.
+Room Drive: an Android app for sharing files inside a company, school or team, with an admin and user IDs.
+
+Interests
+
+Embedded systems, IoT, PCB design, VLSI and AI that runs on the device.
